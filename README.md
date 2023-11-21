@@ -18,3 +18,6 @@
 ## About me
 <li>Member of Open Source Project 'python-mysql-replication' Korea Community</li>
 <li>B.A., Japanese Interpretation and Translation, Computer and Electronic System Engineering, Hankuk University of Foreign Studies</li>
+
+## Contact
+<li>Feel free to contact me via email!</li>
