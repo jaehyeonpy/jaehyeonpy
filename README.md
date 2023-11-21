@@ -1,16 +1,20 @@
-### Hi there 👋
+## Interests
+<li>Web Backend Development</li>
+<li>Database</li>
+<li>Data Engineering</li>
+<li>Japanese as linguistics</li>
 
-<!--
-**jaehyeonpy/jaehyeonpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Achievements
+<li>
+  <a href="https://github.com/jaehyeonpy/hospital_info_system">hospital_info_system</a>: made a WAS for registering information about hospital, doctor, major, school, and returning them corresponding to received HTTP request.
+</li>
 
-Here are some ideas to get you started:
+<li>
+  <a href="https://github.com/jaehyeonpy/py-mysql-elasticsearch-sync">py-mysql-elasticsearch-sync</a>: forked and recreated <a href="https://github.com/zhongbiaodev/py-mysql-elasticsearch-sync">py-mysql-elasticsearch-sync</a>, reading MySQL log files(or binlog events) and converting them to python objects to jsons for replicating data from MySQL to Elasticsearch.
+</li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li>python-mysql-replication: implemented MariadbBinLogCheckPointEvent with people, reading MariaDB log file event BINLOG_CHECKPOINT_EVENT and converting it to python object.</li>
+
+## About me
+<li>Member of Open Source Project 'python-mysql-replication' Korea Community</li>
+<li>B.A., Japanese Interpretation and Translation, Computer and Electronic System Engineering, Hankuk University of Foreign Studies</li>
